@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&display=swap");
+body {
+  font-family: "Oswald";
+}
+.App {
+  text-align: center;
+}
+h1 {
+  font-size: 48px;
+}
+p {
+  font-weight: 100;
+  font-size: 16px;
+}
+img {
+  margin: 10px;
+  object-fit: cover;
+}
+hr {
+  margin: 2px 25%;
+}
+.Gallery {
+  margin: 0 5px;
+}
